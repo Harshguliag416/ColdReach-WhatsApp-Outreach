@@ -36,3 +36,14 @@ lerna-debug.log*
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Standard Professional Cleanup Rules
+.pnp*
+.pnp.js
+.expo/
+dist-buildcheck/
+dist-buildcheck-2/
+.vite/
+venv/
+__pycache__/
+*.pyc
